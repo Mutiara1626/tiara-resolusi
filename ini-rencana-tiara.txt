@@ -1,3 +1,4 @@
 Rencana tiara 
 1. menyelesaikan belajar github : dengan menonton video yutub
 2. memahami ilmu nya
+3. sudah berhasil masuk ke main branch
