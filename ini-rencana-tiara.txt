@@ -3,3 +3,4 @@ Rencana tiara
 2. memahami ilmu nya
 3. sudah berhasil masuk ke main branch
 belajar membuat github
+main
